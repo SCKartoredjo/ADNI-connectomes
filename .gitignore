@@ -152,15 +152,18 @@ cython_debug/
 #.idea/
 
 #ADNI connectomics
-.nii
-.sh
-.stats
-.local-copy
-.old
-/scripts
-/surf
-/touch
-/label
-/mri
-/stats
-/data
+**.zip
+**.nii
+**.sh
+**.stats
+**.local-copy
+**.old
+**.nii
+**/scripts
+**/surf
+**/touch
+**/label
+**/mri
+**/stats
+**/data
+**/dti
