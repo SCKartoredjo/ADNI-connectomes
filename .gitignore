@@ -157,7 +157,10 @@ cython_debug/
 .stats
 .local-copy
 .old
-scripts/
-surf/
-touch/
-label/
+/scripts
+/surf
+/touch
+/label
+/mri
+/stats
+/data
