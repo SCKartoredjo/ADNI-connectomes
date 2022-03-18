@@ -152,8 +152,11 @@ cython_debug/
 #.idea/
 
 #ADNI connectomics
+**.Bdouble
+**.Bfloat
 **.zip
 **.nii
+**.nii.gz
 **.sh
 **.stats
 **.local-copy
